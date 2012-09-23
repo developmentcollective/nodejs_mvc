@@ -1,0 +1,12 @@
+
+This application gets basic web server functionality from https://gist.github.com/246761 a big thanks for sharing
+
+
+Supporting information
+========================
+* White paper on Front Middle Back https://docs.google.com/a/routetodigital.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B0nl0PiKHURCYTlkZjJlN2ItMzIwOC00N2ZjLThmYTEtMTNmZDZkM2FkM2E3&hl=en
+
+TODO
+=============
+* paging
+* make it generic for all spreadsheets
